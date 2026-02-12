@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "😚",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you! "           // Secret hover message
         },
         second: {
             text: "How much would you say you love me though?",                          // For the love meter
@@ -48,8 +48,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'll make sure that your gift, kiss and hug get to you 👅 ",
-        message: "I also saw you say that you'll be licking cream of your own titties this valentines, I volunteer to do that for you please😭",
+        title: "I'll make sure that your gift, kiss and hug get to you ml🥹",
+        message: "I also saw you say that you'll be licking chocolate of your own titties this valentines, I volunteer to do that for you please😭",
         emojis: ""  // These will bounce around
     },
 
