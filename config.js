@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://youtu.be/F30Pb7NSieE?si=4mOzHfBSr4zgj-JX", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/ddbetraxc/video/upload/v1770901822/pink_bubblegum_hxs30l.mp3", // Music streaming URL
         startText: "🎵",        // Button text to start music
         stopText: "🔇",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
