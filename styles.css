@@ -118,7 +118,7 @@ body {
 }
 
 .love-meter p {
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 15px 0;
     color: var(--text-color);
     transition: all 0.3s ease;
@@ -261,7 +261,7 @@ h1, h2 {
 
 h1 {
     color: #51035c;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 h2 {
@@ -269,7 +269,7 @@ h2 {
 }
 
 .super-love {
-    font-size: 1.5em;
+    font-size: 1em;
     color: #ff4757;
     font-weight: bold;
     transform: scale(1.2);
